@@ -1,1 +1,2 @@
-# blah7-dic
+# Dictionaries of Japanese terms and MeSH UIDs appeared in LitCovid
+To be added...
